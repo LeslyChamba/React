@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/LeslyChamba/React.git/static/css/main.38b3e304.css",
+    "main.js": "/LeslyChamba/React.git/static/js/main.edfe5a60.js",
+    "static/js/787.a654737c.chunk.js": "/LeslyChamba/React.git/static/js/787.a654737c.chunk.js",
+    "static/media/rectangle_1.png": "/LeslyChamba/React.git/static/media/rectangle_1.a531b21c11780b309533.png",
+    "static/media/imagen_11.png": "/LeslyChamba/React.git/static/media/imagen_11.c04247a36cf30a8acb92.png",
+    "static/media/imagen_4.png": "/LeslyChamba/React.git/static/media/imagen_4.c04247a36cf30a8acb92.png",
+    "static/media/imagen_15.png": "/LeslyChamba/React.git/static/media/imagen_15.7d1ac0612a1b61909d0b.png",
+    "static/media/imagen_21.png": "/LeslyChamba/React.git/static/media/imagen_21.28ea42f8140ba44305d0.png",
+    "static/media/imagen_19.png": "/LeslyChamba/React.git/static/media/imagen_19.15d224923f2031a391e3.png",
+    "static/media/imagen_18.png": "/LeslyChamba/React.git/static/media/imagen_18.aa71dac15576f040483d.png",
+    "static/media/imagen_16.png": "/LeslyChamba/React.git/static/media/imagen_16.93ecefb1d0c4326e3cb0.png",
+    "static/media/imagen_14.png": "/LeslyChamba/React.git/static/media/imagen_14.27294a8d9203801a49a1.png",
+    "static/media/imagen_8.png": "/LeslyChamba/React.git/static/media/imagen_8.7534091afbcf53e91e04.png",
+    "static/media/imagen_12.png": "/LeslyChamba/React.git/static/media/imagen_12.18741dcc3f1c54fbb2cd.png",
+    "static/media/imagen_13.png": "/LeslyChamba/React.git/static/media/imagen_13.f11851eb1a72d49efbbf.png",
+    "static/media/imagen_7.png": "/LeslyChamba/React.git/static/media/imagen_7.95baa592cb912164bcbd.png",
+    "static/media/rectangle_45.png": "/LeslyChamba/React.git/static/media/rectangle_45.c8b1381de81057c03432.png",
+    "static/media/imagen_20.png": "/LeslyChamba/React.git/static/media/imagen_20.5ba21b0afae1b3d6e512.png",
+    "static/media/imagen_17.png": "/LeslyChamba/React.git/static/media/imagen_17.75ab44e33207ba2c0cfc.png",
+    "static/media/imagen_3.png": "/LeslyChamba/React.git/static/media/imagen_3.b32b54a52af835fde206.png",
+    "index.html": "/LeslyChamba/React.git/index.html",
+    "main.38b3e304.css.map": "/LeslyChamba/React.git/static/css/main.38b3e304.css.map",
+    "main.edfe5a60.js.map": "/LeslyChamba/React.git/static/js/main.edfe5a60.js.map",
+    "787.a654737c.chunk.js.map": "/LeslyChamba/React.git/static/js/787.a654737c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38b3e304.css",
+    "static/js/main.edfe5a60.js"
+  ]
+}
